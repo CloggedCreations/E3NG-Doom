@@ -23,6 +23,17 @@ This is purely a passion project and learning journey and does not make financia
 9. Recycled an old **[BTT TFT 35 SPI](https://github.com/bigtreetech/TFT35-SPI)** (which is pretty rubbish).
 10. Logitech C920 mounted Front Upper Right corner.
 
+## Hardware
+The following is roughly the hardware used. Lost track and count of how many.
+* M3x8 SHCS (Heaps)
+* M3x12 SHCS (Not many)
+* M3x16 SHCS (Not many)
+* M3x45 SHCS (2 for hinges)
+* M3 Hammer T Nut (Heaps)
+* M3 Heatset Insert (Voron)
+* 6x2 Neodymium magnets (50)
+* CA Glue for Magnets
+
 ## Slicing & Printing
 1. I have included a **[fully assembled STL](https://github.com/CloggedCreations/E3NG-Doom/blob/main/Complete%20Enclosure%20Assembled.stl)** for those who have trouble assembling. However it should be fairly self explanatory.
 2. STL's are divided into "sides" as I was too lazy to export individual parts. You will need to "split" and align parts for printing.
