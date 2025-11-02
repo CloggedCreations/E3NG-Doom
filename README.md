@@ -1,7 +1,7 @@
 # E3NG-Doom
 Ender 3 NG Doomesque
 
-![Image of E3NG](https://github.com/CloggedCreations/E3NG-Doom/blob/main/Assembled%20View.png)
+![Image of E3NG](https://preview.redd.it/yet-another-uneconomical-ender-3-project-ender-3-ng-doom-v0-unvausgnynvf1.jpg?width=1080&crop=smart&auto=webp&s=1e4558611ebcd83ed95a5e9e80f90ba2330342dd)
 
 I have had requests for STLs so as promised here they are along with my build log, notes and attribution. 
 
